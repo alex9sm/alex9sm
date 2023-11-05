@@ -6,7 +6,7 @@ Hobbies
 - Editing
 - Working on cars
 
-- 🔭 I’m currently working on : Beginner Projects, Soundcloud Downloader, Small 2D Game, Discord Bot
+- 🔭 I’m currently working on : Learning intermediate concepts, Beginner Projects
 - 🌱 I’m currently learning : Golang, Typescript, C
 
 ![image](https://media.tenor.com/wL59aqQiwzAAAAAd/cat-kitty.gif)
