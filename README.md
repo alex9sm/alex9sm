@@ -7,6 +7,6 @@ Hobbies
 - Working on cars
 
 - 🔭 I’m currently working on : Learning intermediate concepts, Beginner Projects
-- 🌱 I’m currently learning : Golang, Typescript, C
+- 🌱 I’m currently learning : Golang, Typescript, C, C++
 
 ![image](https://media.tenor.com/wL59aqQiwzAAAAAd/cat-kitty.gif)
