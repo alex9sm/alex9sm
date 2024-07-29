@@ -1,7 +1,7 @@
 Hobbies
 - Programming
 - 3d Art
-- Editing
+- Video editing
 - Cars
 
 - I’m currently working on : Learning intermediate concepts, Beginner Projects
