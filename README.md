@@ -1,2 +1,2 @@
 
-C, C++, Python, Svelte, Tailwind
+Go, C, C++, Python, Svelte, Tailwind
